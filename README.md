@@ -8,4 +8,4 @@ git clone https://github.com/AbilSeno/spamsmskreditplus
 cd spamsmskreditplus
 python spam11.py {nomor} {jumlah spam}
 </code></pre>
-NOTE : python spam11.py {nomor} 999 | untuk unlimited spam (ga berhenti)
+Format : 08xxx
