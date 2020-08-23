@@ -1,4 +1,5 @@
 # Script SpamSms KreditPlus
+Open Source Hiya hiya awowkwowkk
 # Usage:
 <pre><code>python spam11.py {nomor} {jumlah spam}</code></pre>
 # Cara Penggunaan:
