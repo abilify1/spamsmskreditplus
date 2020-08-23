@@ -1,5 +1,4 @@
 # Script SpamSms KreditPlus
-Apa ya?
 # Usage:
 <pre><code>python spam11.py {nomor} {jumlah spam}</code></pre>
 # Cara Penggunaan:
